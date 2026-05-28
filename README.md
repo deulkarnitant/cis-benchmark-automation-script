@@ -1,11 +1,11 @@
 Automation Workflow(3 stage solution)
 
-Script 1: CUS Control Extraction
+Script 1: CIS Control Extraction
 Takes the official CIS Benchmark PDF as input.
 Extract all control IDs, titles, and Descriptions.
 Convert data into structured Excel File.
 
-Script 2: Commanding Mapping
+Script 2: Command Mapping
 Process extracted controls.
 Maps each control to its corresponding audit command.
 Builds a structured control to command dataset.
